@@ -3,3 +3,4 @@ Git is free softwae
 wo shi shei?
 hi is who???
 Git trachk changes.
+Git has a mutable index call stagesssss.
